@@ -1,0 +1,23 @@
+.graph-container{
+    width: 65%;
+    border: 1px solid #E6CBA8;
+    border-radius: 5px;
+    height: 60vh;
+    background-color: white;
+    margin: 5px;
+    margin-right: 0px;
+    min-height: 500px;
+}
+
+.graph-heading div{
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid #E6CBA8;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.graph-heading div span{
+    font-size: 15px;
+    font-weight: 500;
+}

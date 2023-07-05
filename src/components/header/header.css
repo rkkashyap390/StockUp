@@ -1,0 +1,15 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: 1px solid #e2e2e2;
+    height: 40px;
+    background-color: #0008C1;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.header-container div h1{
+    color: white;
+}

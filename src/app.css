@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+.cmg-container{
+    display: flex;
+}
+.upthbs-container{
+    display: flex;
+}
+.app{
+    background-color: #FDF0E0;
+}
+
+.user-and-trade-container{
+    display: flex;
+    width: 65%;
+    margin: 5px;
+    margin-right: 0px;
+    margin-top: 0px;
+    border: 1px solid #FDF0E0;
+} 

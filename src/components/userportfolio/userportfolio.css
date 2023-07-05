@@ -1,0 +1,37 @@
+.user-portfolio-container{
+    width: 40%;
+    border: 1px solid #E6CBA8;
+    margin-right: 0px; 
+    border-radius: 5px;
+    background-color: white;
+}
+.user-portfolio-heading{
+    display: flex;
+    flex-direction: column;
+    border-bottom:1px solid #E6CBA8;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.user-portfolio-heading div{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.userportfolio-user-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.userportfolio-user-container span{
+    font-size: 16px;
+    font-weight: bold;
+}
+.user-portfolio-data{
+    overflow-y: scroll;
+}

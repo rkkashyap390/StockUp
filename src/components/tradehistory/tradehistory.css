@@ -1,0 +1,22 @@
+.trade-history-container{
+    width: 60%;
+    border: 1px solid #E6CBA8;
+    margin-left: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+.trade-history-heading{
+    display: flex;
+    flex-direction: column;
+    border-bottom:1px solid #E6CBA8;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.trade-history-heading div{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    font-weight: bold;
+    font-size: 14px;
+}

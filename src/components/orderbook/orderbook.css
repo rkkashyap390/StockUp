@@ -1,0 +1,24 @@
+.current-market-container{
+    width: 35%;
+    border: 1px solid #E6CBA8;
+    margin: 5px;
+    border-radius: 5px;
+    height: 60vh;
+    min-height: 500px;
+    background-color: white;
+} 
+.current-market-heading{
+    display: flex;
+    flex-direction: column;
+    border-bottom:1px solid #E6CBA8;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.current-market-heading div{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    font-weight: bold;
+    font-size: 14px;
+}
